@@ -1,1 +1,2 @@
-Curso de GIT. ejemplo de sincronización
+Curso de GIT. ejemplo de sincronizaciÃ³n
+Esta linea es modificada github
