@@ -1,2 +1,2 @@
-Curso de GIT. ejemplo de sincronización
-Esta linea es modificada github
+﻿Esta linea es modificada github
+Cambios
